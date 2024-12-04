@@ -1,0 +1,23 @@
+class Sinheheritance
+{
+void hello()
+{
+system.out.println("hi!everyone.how are you all");
+}
+}
+class si extends Sinheritance
+{
+void pgm()
+{
+system.out.println("let us short learning JAVA");
+}
+}
+class singleinheritance
+{
+public static void main (string args[])
+{
+si s=new si();
+s.hello();
+spgm();
+}
+}
